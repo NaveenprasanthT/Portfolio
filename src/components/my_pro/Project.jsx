@@ -19,7 +19,7 @@ const data = [
     {
         web: "Share(Socail Media)",
         photo: refresh,
-        github: "https://github.com/NaveenprasanthT/Share",
+        github: "https://github.com/NaveenprasanthT/Share-Frontend",
         demo:"https://share-np.vercel.app/",
         },
         {
